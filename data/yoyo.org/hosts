@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Wed, 06 Mar 2019 08:11:59 GMT
-# entries:        2954
+# entries:        2948
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Fri, 12 Mar 1999 00:00:00
+# start date:    Tue, 16 Mar 1999 00:00:00
 0.0.0.0 101com.com
 0.0.0.0 101order.com
 0.0.0.0 123found.com
@@ -66,7 +66,6 @@
 0.0.0.0 aboardlevel.com
 0.0.0.0 abruptroad.com
 0.0.0.0 absentstream.com
-0.0.0.0 absoluteclickscom.com
 0.0.0.0 absorbingband.com
 0.0.0.0 absurdwater.com
 0.0.0.0 abz.com
@@ -340,7 +339,6 @@
 0.0.0.0 adriver.ru
 0.0.0.0 adrolays.de
 0.0.0.0 adrotate.de
-0.0.0.0 adrotator.se
 0.0.0.0 adrotic.girlonthenet.com
 0.0.0.0 adrta.com
 0.0.0.0 ads-click.com
@@ -1187,7 +1185,6 @@
 0.0.0.0 casinopays.com
 0.0.0.0 casinorewards.com
 0.0.0.0 casinotraffic.com
-0.0.0.0 casinotreasure.com
 0.0.0.0 cbanners.virtuagirlhd.com
 0.0.0.0 cbsi.com
 0.0.0.0 cdn.freefarcy.com
@@ -1224,6 +1221,7 @@
 0.0.0.0 class-act-clicks.com
 0.0.0.0 clearcomb.com
 0.0.0.0 clevernt.com
+0.0.0.0 click.absoluteagency.com
 0.0.0.0 click.fool.com
 0.0.0.0 click.kmindex.ru
 0.0.0.0 click2freemoney.com
@@ -1657,7 +1655,6 @@
 0.0.0.0 gtop100.com
 0.0.0.0 guardedgovernor.com
 0.0.0.0 guardedschool.com
-0.0.0.0 guitarbelieve.com
 0.0.0.0 gunggo.com
 0.0.0.0 h78xb.pw
 0.0.0.0 hammerhearing.com
@@ -2471,7 +2468,6 @@
 0.0.0.0 shinystat.com
 0.0.0.0 shinystat.it
 0.0.0.0 shiveringsail.com
-0.0.0.0 shockingswing.com
 0.0.0.0 shoppingads.com
 0.0.0.0 sicksmash.com
 0.0.0.0 sidebar.angelfire.com
@@ -2507,7 +2503,6 @@
 0.0.0.0 smilingwaves.com
 0.0.0.0 snakesort.com
 0.0.0.0 snapads.com
-0.0.0.0 sneaklevel.com
 0.0.0.0 sneakystamp.com
 0.0.0.0 snoobi.com
 0.0.0.0 socialspark.com
@@ -2933,7 +2928,6 @@
 0.0.0.0 xxxmyself.com
 0.0.0.0 y.ibsys.com
 0.0.0.0 yab-adimages.s3.amazonaws.com
-0.0.0.0 yabuka.com
 0.0.0.0 yadro.ru
 0.0.0.0 yepads.com
 0.0.0.0 yesads.com
