@@ -6,5 +6,5 @@ set -x
 
 BASE="${0%/*}"
 
-cd "${BASE}" && python3 updateHostsFile.py --output /etc/dnshosts/  --auto --skipstatichosts --extensions porn
-reload dnsmasq
+cd "${BASE}" && python3 updateHostsFile.py --output /etc/dnshosts/  --auto --skipstatichosts --extensions porn gambling
+systemctl reload dnsmasq
